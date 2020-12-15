@@ -19,7 +19,7 @@ the fundamentals of JavaScript covered in the prework.
 1.  Change into the new directory.
 1.  Fulfill the listed requirements.
 
-Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are
+Starter code is available in [`challenge.js`](challenge.js). You are
 required to turn in your submission by making a pull request on the original
 repository.
 
@@ -28,12 +28,11 @@ repository.
 ## Requirements
 
 There are a series of prompts inside of the starter code found in
-[`lib/challenge.js`](lib/challenge.js). Work through all of the prompts. Each
+[`challenge.js`](challenge.js). Work through all of the prompts. Each
 prompt is in the form of a JavaScript comment. Write your code to solve the
 prompt *after* the comment.
 
-Some prompts will require you to practice researching methods we did not learn
-in class.
+Some prompts will require you to practice researching methods we did not learn in class.
 
 > **Tip:** Use `console.log` to test your work, but delete those statements when you
 > finish working on the prompt, before moving on to the next one! Otherwise,
